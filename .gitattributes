@@ -1,0 +1,5 @@
+# Force CRLF line endings for .vbs files
+*.vbs text eol=crlf
+
+# Force LF line endings for all other files
+* text eol=lf
